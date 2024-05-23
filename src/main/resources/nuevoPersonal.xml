@@ -1,0 +1,35 @@
+<personal>
+    <empleado>
+        <id>25</id>
+        <dep>20</dep>
+        <apellido>Perez</apellido>
+        <oficio>pintor</oficio>
+        <salario>1000</salario>
+        <comision>100</comision>
+    </empleado>
+    <empleado>
+        <id>7369</id>
+        <dep>20</dep>
+        <apellido>Sancho</apellido>
+        <oficio>pintora</oficio>
+        <salario>1100</salario>
+        <comision>100</comision>
+    </empleado>
+    <empleado>
+        <id>26</id>
+        <dep>40</dep>
+        <apellido>Gomez</apellido>
+        <oficio>profe</oficio>
+        <salario>1200</salario>
+        <comision>200</comision>
+    </empleado>
+    <empleado>
+        <id>27</id>
+        <dep>80</dep>
+        <apellido>Jimenez</apellido>
+        <oficio>chef</oficio>
+        <salario>1300</salario>
+        <comision>300</comision>
+    </empleado>
+</personal>
+    
